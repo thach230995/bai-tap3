@@ -1,0 +1,22 @@
+.app-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .sidebar-container {
+  
+    background-color: #ffa500;
+  }
+  
+  .main-container {
+    width: 80%;
+    padding: 20px;
+  }
+  
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
